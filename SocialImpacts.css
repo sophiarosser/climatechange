@@ -19,13 +19,13 @@
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #ddd;
-    color: black;
+    color: coral;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #4CAF50;
-    color: white;
+    color: coral;
 }
 
 h1 {
@@ -33,7 +33,7 @@ h1 {
 }
 
 body{
-  background-image:url("http://neia.org/wp-content/uploads/2014/08/sociallee.jpg");
+  background-image:url("https://socialimpact.wharton.upenn.edu/wp-content/uploads/2013/08/world-stock-image.jpg");
   background-repeat:no-repeat;
   background-size:cover
 }
